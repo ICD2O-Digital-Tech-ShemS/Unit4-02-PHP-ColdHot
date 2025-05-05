@@ -5,7 +5,7 @@
         if ($Final >= 15) {
             echo "It is Hot out side";
         }
-        else  ($Final <= 15) {
+        if  ($Final <= 15) {
             echo  "It is cold"; 
     }
 ?>
